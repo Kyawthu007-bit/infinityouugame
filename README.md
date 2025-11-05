@@ -1,0 +1,2 @@
+# infinityouugame
+Auto play.
